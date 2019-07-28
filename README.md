@@ -1,6 +1,10 @@
 # codefundo++ idea
 
-In our project, we intend to solve different problems: 1)voting from different locations,2)adding a person into the voters list, 3)hacking accusations and 4)declaring results.
+In our project, we intend to solve different problems: 
+  1)voting from different locations,
+  2)adding a person into the voters list, 
+  3)hacking accusations and 
+  4)declaring results.
 
 Everyone is given an e-voter card (e-ID) which has an address ,uniquely representing each individual (like an address of crypto wallet), which he/she uses to vote. The difference between the e-voter card and wallet would be that, wallet stores cryptocurrency whereas e-ID is used to just vote by the voters.Using ID, we can also make sure that no voter is able to vote more than once.
 This enables voters to vote from any place in the world.
